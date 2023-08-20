@@ -8,3 +8,13 @@ body {
   background-color: darkblue;
   color: whitesmoke;
 }
+
+.banner {
+  height: 500px;
+  background-color: rgba(0,0,0,0.5);
+  text-align: center;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
